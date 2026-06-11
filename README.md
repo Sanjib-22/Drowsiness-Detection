@@ -52,6 +52,7 @@ python webcam_script.py
 ```
 
 Press **Q** to quit the webcam window.
+In case pressing **Q** doesn't work, navigate to the terminal and press **ctrl+c**
 
 ### Run the notebook
 
