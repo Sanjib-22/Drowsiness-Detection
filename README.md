@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Run the webcam script
+### Run the webcam script on terminal
 
 ```bash
 python webcam_script.py
