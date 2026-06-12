@@ -80,4 +80,6 @@ Open `model.ipynb` in Jupyter or VS Code. The notebook covers:
 ---
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+
 Thanks to [Shruti Singha](https://github.com/shruti-exepunk) for collaborating in this project.
